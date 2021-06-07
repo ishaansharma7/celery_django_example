@@ -1,0 +1,4 @@
+hello {{name|safe}}
+Copy of your review
+
+{{review|safe}}
