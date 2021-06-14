@@ -1,4 +1,4 @@
-# Celery_Django_Example
+# Celery Django Example
 
 This project was created using python 3.8.5
 
