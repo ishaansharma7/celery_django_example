@@ -5,7 +5,8 @@ This project was created using python 3.8.5
 ## Requirements
 Create virtual environment.\
 Install requirements.txt file present in root directory.\
-Then install redis server.
+Then install redis server.\
+Do appropriate changes in settings.py file
 
 ## Run Project
 
