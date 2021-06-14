@@ -1,4 +1,4 @@
-# Wealthifyme API
+# Celery_Django_Example
 
 This project was created using python 3.8.5
 
